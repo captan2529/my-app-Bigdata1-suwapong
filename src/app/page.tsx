@@ -1,6 +1,6 @@
 import React from 'react'
 import Footer from './components/footer'
-import Hero from './Hero'
+import Hero from './components/Hero'
 
 export default function Home() {
   return (

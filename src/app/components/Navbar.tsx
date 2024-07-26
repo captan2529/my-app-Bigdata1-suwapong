@@ -12,7 +12,7 @@ export default function Navbar() {
                 className="text-5xl text-blue-600 hover:text-stone-600"
               ></ion-icon>
             </div> */}
-            <ul className="hidden md:flex items-center text-[18px] font-semibold pr-10">
+            <ul className="hidden md:flex items-center text-[16px] font-semibold pr-10">
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="/">หลักสูตรรัฐประศาสนศาสตร์</a>
               </li>
@@ -29,7 +29,7 @@ export default function Navbar() {
                 <a href="/evaluation">การประเมินนะโยบายสาธารณะ</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">ChatGPT</a>
+                <a href="/chatgpt">ChatGPT</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">ทีมงาน</a>
