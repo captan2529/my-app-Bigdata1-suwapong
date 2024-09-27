@@ -26,7 +26,7 @@ export default function Navbar() {
                 <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="/evaluation">การประเมินนะโยบายสาธารณะ</a>
+                <a href="/productlist">การประเมินนะโยบายสาธารณะ</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="/chatgpt">ChatGPT</a>
